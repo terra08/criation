@@ -1,0 +1,2 @@
+# criation
+learn adapt
